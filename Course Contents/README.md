@@ -38,8 +38,3 @@
 
 ### [Ch15 - Exceptions - Error Handling](https://github.com/YazeedAsmar/Python-Programming-From-Fundamentals-to-Practical-Application-Development/blob/main/notebooks/Ch16-Exceptions.ipynb)
 
-### [Exercises Solution](https://colab.research.google.com/drive/1jcHW6r9vkiutRv1xrQugiA2U_67h1prq?usp=sharing)
-
-### [Final Project "Online Shop Store"](https://colab.research.google.com/drive/18wlC3aKJzmULp-cWw5BS7-FHUWGnRH4i)
-
-### [Final Project Solution "Online Shop Store"](https://colab.research.google.com/drive/1LsY1Z8FPNSwbuujcnb7CPvGbgn18CkrT?usp=sharing)
